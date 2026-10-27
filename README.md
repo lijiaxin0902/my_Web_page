@@ -14,7 +14,7 @@ Edit `index.html` for content, `style.css` for design, and `script.js` for langu
 
 ## Content
 
-The supplied CV and major research achievement sheet inform education, research topics, eight conference presentations, one manuscript under review, an award, and a research grant. In-review manuscripts are not represented as accepted or published papers. The Game Studies submission only appears in the separate dissertation sheet and is omitted pending status confirmation. Translated descriptions summarize the source material; original titles remain unchanged.
+The supplied CV and major research achievement sheet inform education, research topics, eight conference presentations, an award, and a research grant. Only completed conference presentations and published work are included. Submitted, under-review, and rejected manuscripts are excluded at the author’s request. Translated descriptions summarize the source material; original titles remain unchanged.
 
 The source PDF and spreadsheet are intentionally not committed or linked as downloads because they contain private telephone and student-ID information. Contact uses the supplied email. The grant provider's Japanese name is retained in English to avoid implying an unverified official translation.
 
