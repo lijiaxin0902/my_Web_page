@@ -10,7 +10,7 @@ From `/workspace/my_Web_page`, run:
 python3 -m http.server 8000 --bind 0.0.0.0
 ```
 
-Edit `index.html` for content, `style.css` for design, and `script.js` for language selection. Every translated element has `data-zh`, `data-en`, and `data-ja`. The top-right buttons work without reloading and remember the selected language when storage is available. Chinese is the default. Original research titles and author order are preserved across languages. A monogram is used in place of a personal photo.
+Edit `index.html` for content, `style.css` for design, and `script.js` for language selection. Every translated element has `data-zh`, `data-en`, and `data-ja`. The top-right buttons work without reloading and remember the selected language when storage is available. Chinese is the default. Original research titles and author order are preserved across languages. The page uses a simple academic layout: top navigation, a personal-information sidebar, and a text-first main column. No portrait is shown until one is provided. The layout was informed by tessaaawu.github.io; its text, images, and template code are not copied.
 
 ## Content
 
